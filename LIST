@@ -4,8 +4,12 @@ local HwidList = {
     },
 
     ["78a60568-958c-4ca3-8462-d2511ee8728d"] = { ---[zelferion | 901788321989160991]---
-    Expires = os.time({year=3024, month=12, day=24, hour=16, min=0, sec=0})
-},
+        Expires = os.time({year=3024, month=12, day=24, hour=16, min=0, sec=0})
+    },
+
+    ["5B1B0718-A287-4AE7-9EEB-13CAAFB37874"] = { ---[zelferion | 901788321989160991]---
+        Expires = os.time({year=2025, month=2, day=2, hour=22, min=45, sec=0})
+    },
 }
 
 return HwidList
