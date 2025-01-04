@@ -1,3 +1,5 @@
 if game.PlaceId == 18853192637 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/KettyDev/Skull-Hub/refs/heads/main/Pet_Mine"))()
+elseif game.PlaceId == 17614166213 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/KettyDev/Skull-Hub/refs/heads/main/GET%20FAMOUS"))()
 end
